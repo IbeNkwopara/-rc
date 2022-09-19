@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: azure;
+}
+ 
+h3 {
+    color: azure;
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 30%;
+}
